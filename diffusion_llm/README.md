@@ -1,3 +1,5 @@
+Use diffusion_llm as the base folder.
+
 To install all dependencies:
 
 use the environment.yaml file provided.
