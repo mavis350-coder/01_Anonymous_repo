@@ -27,3 +27,6 @@ bash ./scripts/TimeLLM_ETTm2.sh
 ## Detailed usage
 
 Please refer to ```run_main.py``` for the detailed description of each hyperparameter.
+
+For transparency, we refer the seeds we have used in the experiments. We have mainly used the seeds 2021 as it is a standard practice in https://github.com/thuml/Time-Series-Library . Apart from this, we have alternated between the seeds 2001, 1789, 0 for different experiments to preserve randomness while keeping the results reproducible. 
+
